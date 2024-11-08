@@ -1,6 +1,6 @@
 {
-    "name": "digest",
-    "description": "A Ghost theme",
+    "name": "digest-dark",
+    "description": "A Ghost theme, dark",
     "version": "1.0.0",
     "private": true,
     "engines": {
@@ -12,6 +12,13 @@
         "email": "hello@ghost.org",
         "url": "https://ghost.org"
     },
+    "contributors": [
+        {
+            "name": "Mykola Solodukha",
+            "email": "mykola@mykolasolodukha.me",
+            "url": "https://mykolasolodukha.me"
+        }
+    ],
     "keywords": [
         "ghost",
         "theme",
