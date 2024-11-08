@@ -1,7 +1,7 @@
 {
     "name": "digest-dark",
     "description": "A Ghost theme, dark",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "private": true,
     "engines": {
         "ghost": ">=5.0.0"
